@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "semver"
-version = "1.1.0-1"
+version = "1.1.1-1"
 -- LuaDist source
 source = {
-  tag = "1.1.0-1",
+  tag = "1.1.1-1",
   url = "git://github.com/LuaDist-testing/semver.git"
 }
 -- Original source
@@ -12,7 +12,7 @@ source = {
 --    url = "git://github.com/kikito/semver.lua.git",
 -- }
 description = {
-   summary = "An implementation of semantic versioning (semver.org) in Lua",
+   summary = "An implementation of semantic versioning (semver.org 2.0.0) in Lua",
    detailed = [[
       See details in http://semver.org
    ]],
